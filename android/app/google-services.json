@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "530827449108",
+    "firebase_url": "https://react-native-firebase-9d9cb.firebaseio.com",
+    "project_id": "react-native-firebase-9d9cb",
+    "storage_bucket": "react-native-firebase-9d9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530827449108:android:ae5f6ffa1d235831df6801",
+        "android_client_info": {
+          "package_name": "com.diariosaude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530827449108-7dn87mapauldpt7lghqrps19m7rtmb57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diariosaude",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "530827449108-3e3dhs81lanm54oup76gtb7avdtt3d1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diariosaude",
+            "certificate_hash": "761f1fb26c2793eab7e0e613dc07ce9ac0414777"
+          }
+        },
+        {
+          "client_id": "530827449108-bn2lq541cjnddma9401fhpt88qgjmfs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCKnsbQwJKSeYrIe5-Wrg5DFnjuVeYJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530827449108-bn2lq541cjnddma9401fhpt88qgjmfs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530827449108:android:6bc4427beb604916df6801",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530827449108-5j5j5glvjt3hkklr0feh55iu7971i7h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnfirebase",
+            "certificate_hash": "761f1fb26c2793eab7e0e613dc07ce9ac0414777"
+          }
+        },
+        {
+          "client_id": "530827449108-bn2lq541cjnddma9401fhpt88qgjmfs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCKnsbQwJKSeYrIe5-Wrg5DFnjuVeYJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530827449108-bn2lq541cjnddma9401fhpt88qgjmfs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
